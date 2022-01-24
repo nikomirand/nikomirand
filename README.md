@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikomirand
+- 👋 Hi, I’m @nikomirand.
 - 👀 I’m interested in decentralized finance
 - 🌱 I’m currently learning everything I possibly can about Bitcoin and the Lightning Network
 
